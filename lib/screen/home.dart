@@ -1169,7 +1169,7 @@ _launchURLBrowser3() async {
 }
 
 _launchURLBrowser4() async {
-  var url = Uri.parse("https://github.com/MannMeruliya/portfolio");
+  var url = Uri.parse("https://github.com/MannMeruliya/portfolio_web");
   if (await canLaunchUrl(url)) {
     await launchUrl(url);
   } else {
