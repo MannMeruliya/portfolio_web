@@ -296,7 +296,7 @@ class _WebState extends State<Web> {
                               height: 2.h,
                             ),
                             Text(
-                              "UI & UX DESIGNING",
+                              "UI DESIGNING",
                               style: TextStyle(
                                   color: Colors.white,
                                   fontSize: 6.sp,
@@ -433,7 +433,7 @@ class _WebState extends State<Web> {
                                       height: 2.h,
                                     ),
                                     Text(
-                                      "UI & UX DESIGNING",
+                                      "UI DESIGNING",
                                       style: TextStyle(
                                           color: Colors.white,
                                           fontSize: 6.sp,

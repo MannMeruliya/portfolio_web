@@ -153,7 +153,7 @@ class _MobileUIState extends State<MobileUI> {
                             height: 1.h,
                           ),
                           Container(
-                            height: 38.h,
+                            height: 40.h,
                             width: 90.w,
                             child: Text(
                               softWrap: true,
@@ -171,7 +171,7 @@ class _MobileUIState extends State<MobileUI> {
                   ),
                 ),
                 SizedBox(
-                  height: 5.h,
+                  height: 4.h,
                 ),
                 Padding(
                   padding: EdgeInsets.only(left: 15, right: 15),
@@ -190,7 +190,7 @@ class _MobileUIState extends State<MobileUI> {
                             width: 2.w,
                           ),
                            Container(
-                             height: 14.h,
+                             height: 16.h,
                              width: 90.w,
                              child: Text(
                                softWrap: true,
@@ -258,7 +258,7 @@ class _MobileUIState extends State<MobileUI> {
                               height: 2.h,
                             ),
                             Text(
-                              "UI & UX DESIGNING",
+                              "UI DESIGNING",
                               style: TextStyle(
                                   color: Colors.white,
                                   fontSize: 13.sp,
@@ -392,7 +392,7 @@ class _MobileUIState extends State<MobileUI> {
                                      height: 2.h,
                                    ),
                                    Text(
-                                     "UI & UX DESIGNING",
+                                     "UI DESIGNING",
                                      style: TextStyle(
                                          color: Colors.white,
                                          fontSize: 15.sp,
